@@ -134,3 +134,11 @@ Gemini 원본 보고서와 CSV는 조사 산출물로 보존한다. 파일 생�
 
 ## 현재 작업 기준 — 증거 감사 후속
 현재 논문 근거 CSV에는 DOI/제목 불일치와 전문에서 확인되지 않은 정량 주장이 발견됐다. 원본 CSV는 보존하고, 검증이 끝나기 전까지 기존 E3/E4 표기를 사실로 인용하지 않는다. 다음 Gemini 실행은 18개 대학 조사를 처음부터 반복하는 것이 아니라, DOI/서지 확인 → 주장 단위 원문 검증 → 영어 석사 프로그램과 연구실 연결 검증 → 별도 검증본 생성 순서로 진행한다.
+
+## 논문 서지 전수 감사 및 검증본 구축 (2026-10-13 19차 완료)
+- **[2026-10-13 Gemini 논문 서지 전수 감사 및 검증본 산출물 생성 19차 로그](01_로그/2026-10-13_Gemini_논문및입시주장_검증후속_19차.md)**
+- **[10_논문 CSV 검증 오버레이 보고서](02_Gemini_원본/2026-10-13/10_논문CSV_검증오버레이.md)** — 9개 행 DOI 전수 대조 및 5건 격리 조치 상세 보고서
+- **[검증본 논문 매트릭스 CSV (papers_evidence_verified.csv)](02_Gemini_원본/2026-10-13/papers_evidence_verified.csv)** — DOI 일치 여부 및 개정 E등급 수록
+- **[연구실·입시 주장 감사 매트릭스 CSV (lab_admission_claim_audit.csv)](02_Gemini_원본/2026-10-13/lab_admission_claim_audit.csv)** — 18개 대학 4축 주장 감사
+- **[검증본 미결 과제 CSV (open_questions_verified.csv)](02_Gemini_원본/2026-10-13/open_questions_verified.csv)** — 격리 과제 OQ-V12 포함
+- **[검증본 공식 출처 인덱스 (sources_verified.md)](02_Gemini_원본/2026-10-13/sources_verified.md)** — 출판사 직접 검증 논문 및 격리 DOI 공시
