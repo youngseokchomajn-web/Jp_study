@@ -100,3 +100,17 @@
 - [GitHub 저장소 주소](https://github.com/youngseokchomajn-web/Jp_study)
 
 실행 후 Gemini가 만든 원본 보고서와 CSV를 먼저 보존하고, 공식 원문 검증이 끝난 정보만 기존 매트릭스에 반영한다. 실제 GitHub 쓰기 및 커밋을 확인하지 않았다면 푸시 완료로 간주하지 않는다.
+
+## 최신 조사 결과 (2026-10-13 14차 완료)
+- **[2026-10-13 Gemini 일괄 조사 결과 생성 및 4축 심층 검증 14차 로그](01_로그/2026-10-13_Gemini일괄조사_결과생성_및_4축검증_14차.md)**
+- **[2026-10-13 심층 조사 결과 원본 폴더 (02_Gemini_원본/2026-10-13/)](02_Gemini_원본/2026-10-13/README_조사결과.md)**
+  - [00_종합 총괄 보고서 (Executive Summary)](02_Gemini_원본/2026-10-13/00_Executive_Summary.md)
+  - [01_18개 대학 영어 독립 석사 및 입시 통합 분석](02_Gemini_원본/2026-10-13/01_영어석사_입시_통합.md)
+  - [02_지원자 경력 맞춤 연구실 매핑 보고서](02_Gemini_원본/2026-10-13/02_연구실_매핑.md)
+  - [03_핵심 논문 근거 품질 심층 평가 (E1~E4)](02_Gemini_원본/2026-10-13/03_논문_근거.md)
+  - [04_레드팀 적대적 교차 검증 보고서](02_Gemini_원본/2026-10-13/04_레드팀_검증.md)
+  - [입시 매트릭스 CSV (matrix_admissions.csv)](02_Gemini_원본/2026-10-13/matrix_admissions.csv)
+  - [연구실 매핑 CSV (matrix_labs.csv)](02_Gemini_원본/2026-10-13/matrix_labs.csv)
+  - [논문 근거 CSV (papers_evidence.csv)](02_Gemini_원본/2026-10-13/papers_evidence.csv)
+  - [미결 과제 CSV (open_questions.csv)](02_Gemini_원본/2026-10-13/open_questions.csv)
+  - [공식 1차 출처 인덱스 (sources.md)](02_Gemini_원본/2026-10-13/sources.md)
