@@ -91,3 +91,11 @@
 - [2026-10-13 진행현황 및 Gemini 일괄조사 전환 12차](01_로그/2026-10-13_진행현황_Gemini일괄조사전환_12차.md)
 
 - [임박 전형의 실제 연구실 적합성 검증 — 11차](01_로그/2026-10-13_임박전형_실제연구실적합성_11차.md)
+
+
+## Gemini Deep Research — 바로 실행
+- **[한 번 붙여넣기 최종 프롬프트](00_운영/Gemini_%ED%95%9C%EB%B2%88%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0_%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.md)** — Gemini Deep Research에 전체 본문을 한 번에 붙여넣어 18개 대학 조사 실행
+- [상세 실행 계획 및 검수 규칙](00_운영/Gemini_%EC%9D%BC%EA%B4%84%EC%A1%B0%EC%82%AC_%EC%8B%A4%ED%96%89%EA%B3%84%ED%9A%8D.md)
+- [GitHub 저장소 주소](https://github.com/youngseokchomajn-web/Jp_study)
+
+실행 후 Gemini가 만든 원본 보고서와 CSV를 먼저 보존하고, 공식 원문 검증이 끝난 정보만 기존 매트릭스에 반영한다. 실제 GitHub 쓰기 및 커밋을 확인하지 않았다면 푸시 완료로 간주하지 않는다.
