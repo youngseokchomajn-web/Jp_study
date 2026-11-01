@@ -50,6 +50,15 @@ During approximately four years of industrial CAE and experimental dynamics prac
    [ Cutting Tool Tip (FRF / Dynamic Compliance H(ω) = x/F) ] ──► [ Altintas-Budak SLD ]
 ```
 
+### Summary Matrix of Industrial Case Studies
+
+| Case Study | Physical Challenge | Governing Formulations & CAE Method | Experimental Correlation Method | Validated Quantitative Result |
+|---|---|---|---|---|
+| **Case 1: Spindle-Bearing-Housing Dynamic Compliance** | High-speed tool-point FRF errors ($>25\%$) due to rigid base assumptions | Craig-Bampton CMS substructuring + Timoshenko rotor dynamics ($\Omega \mathbf{G}_r$) | In-situ modal impact hammer testing (PCB hammer/accelerometers) | Natural frequency prediction error $<2.9\%$; compliance peak within $8.5\%$ |
+| **Case 2: High-Speed Bearing Nonlinear Stiffness** | Thermal-centrifugal ball unloading causing 34% drop in radial stiffness at 20,000 RPM | 5-DOF Jones-Harris kinematic equilibrium + Newton-Raphson nonlinear solver | Tachometer speed sweep + temperature sensor correlation | Identified contact angle migration ($\alpha_i: 15^\circ \to 21.4^\circ$); optimized variable preload |
+| **Case 3: Column Compliance & Regenerative Chatter** | Severe face-milling chatter at $a_p \ge 2.2\text{ mm}$ ($f_c = 142\text{ Hz}$) | Altintas-Budak ZOA stability formulation + Den Hartog TMD tuning formula | Multi-channel microphone / accelerometer cutting chatter trials | Reduced column compliance by $39.4\%$; expanded stable depth of cut by **182%** ($1.7 \to 4.8\text{ mm}$) |
+| **Case 4: In-Situ LM Guideway Joint Identification** | Unmodeled micro-slip damping & contact compliance in CAD-based digital twins | Nonlinear parameter optimization ($\min \mathcal{J}$) + Python-ANSYS APDL batch | Multi-point EMA modal test (6 structural modes) | Average MAC increased $0.78 \to 0.96$; frequency discrepancies reduced from $12.4\%$ to $<2.1\%$ |
+
 ---
 
 ## 2. CASE STUDY 1: COUPLED SPINDLE-BEARING-HOUSING DYNAMIC COMPLIANCE & FRF CORRELATION

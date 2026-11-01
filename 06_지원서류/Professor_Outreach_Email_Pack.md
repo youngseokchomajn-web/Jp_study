@@ -50,9 +50,9 @@ In my current industrial role, I have spent the past four years modeling and tes
 
 During my Master’s studies, I am eager to contribute to your active vibration control research by investigating a physics-informed reduced-order modeling framework that provides real-time tool-point dynamic compliance estimates during cutting. I believe combining my industrial FEA/MBD simulation foundation with your experimental chatter control rigs could lead to fruitful research advances.
 
-May I respectfully inquire whether you anticipate accepting new Master's students into the Nakano Laboratory for the April 2028 (Spring) IGP-C intake?
+May I respectfully inquire whether you anticipate accepting new Master's students into the Nakano Laboratory for the April 2028 (Spring) IGP(C) intake? If my research background and industrial CAE experience align with your laboratory's current directions, I would be deeply honored to request your informal consent (内諾, informal acceptance) to apply for the IGP(C) Master's course under your mentorship.
 
-Attached please find my academic Curriculum Vitae and a draft Research Proposal for your review. If your schedule permits, I would be deeply grateful for the opportunity to have a brief 15-minute online meeting (via Zoom) to introduce myself and receive your valuable guidance.
+Attached please find my academic Curriculum Vitae, a technical CAE portfolio, and a draft Research Proposal for your review. If your schedule permits, I would be deeply grateful for the opportunity to have a brief 15-minute online meeting (via Zoom) to introduce myself and receive your valuable guidance.
 
 Thank you very much for your time and kind consideration.
 
@@ -93,7 +93,7 @@ Over the past four years, my daily engineering responsibilities have centered on
 
 I am strongly motivated to explore how noncontact electromagnetic loading measurements can be sequentially assimilated into reduced-order spindle models (using Ensemble Kalman Filters or physics-informed neural networks) to reconstruct real-time tool-tip compliance states during high-speed rotation. My industrial simulation toolset would allow me to immediately support your experimental rig data interpretation and digital twin modeling.
 
-Could you kindly advise whether your laboratory accepts international Master's students for the April 2028 intake with research supervision conducted in English (such as through TUAT's Special English Graduate Program)?
+Could you kindly advise whether your laboratory accepts international Master's students for the April 2028 intake with research supervision conducted in English (such as through TUAT's Special English Graduate Program)? Furthermore, if the English Master's track operates primarily on an Autumn cycle, could you kindly advise whether an October (Autumn 2027 or October 2028) enrollment would be an option within your group?
 
 I have attached my academic CV, technical portfolio, and a preliminary research proposal. I would be immensely honored if you could spare 15 minutes for an introductory online conversation at your convenience.
 
@@ -213,11 +213,12 @@ I am a prospective international applicant from South Korea holding a Bachelor o
 
 I am writing to respectfully request clarification regarding the application timeline and intake availability for the IMAC-G Master’s Program.
 
-While reviewing the publicly available information, I noticed detailed application guidelines for the October intake (Autumn enrollment). Could you kindly clarify the following three points regarding the **April 2028 (Spring) intake**:
+While reviewing the publicly available information, I noticed detailed application guidelines for the October intake (Autumn enrollment). Could you kindly clarify the following four points regarding the **April 2028 (Spring) intake**:
 
 1. **Intake Availability**: Does the IMAC-G Master’s Program offer an application round specifically for **April 2028 enrollment** for general international applicants residing overseas?
 2. **Guideline Release Schedule**: When are the official Application Guidelines (and application window) for the Academic Year 2028 Spring intake scheduled to be released on your website?
-3. **Supervisor Pre-Consent**: For the IMAC-G Master's track, is obtaining an official Letter of Acceptance / Informal Consent from a prospective laboratory supervisor mandatory prior to formal application submission?
+3. **Application Submission Window**: If an April enrollment route exists, in which month does the formal application period typically open and close (e.g., Autumn of the preceding year)?
+4. **Supervisor Pre-Consent**: For the IMAC-G Master's track, is obtaining an official Letter of Acceptance / Informal Consent from a prospective laboratory supervisor mandatory prior to formal application submission?
 
 Your official guidance will greatly assist me in planning my application materials, official English test submissions, and professor contact schedule.
 
@@ -256,3 +257,16 @@ Youngseok Cho
 Email: youngseokcho.work@gmail.com
 GitHub: https://github.com/youngseokchomajn-web
 ```
+
+---
+
+## PROFESSOR OUTREACH TRACKING MATRIX (진도 관리표)
+
+| Target Institution | Professor / Desk | Target Program | First Contact Date | Follow-up Date | Response / Status | Zoom Meeting Date | Informal Consent (内諾) |
+|---|---|---|---|---|---|---|---|
+| **Science Tokyo** | Assoc. Prof. Yutaka Nakano | IGP(C) Mechanical | *Planned: 2027.04* | - | [ ] Pending Dispatch | - | [ ] Awaiting |
+| **TUAT** | Assoc. Prof. Shuntaro Yamato | Special English Program | *Planned: 2027.04* | - | [ ] Pending Dispatch | - | [ ] Awaiting |
+| **Kyushu Univ** | Prof. Takumi Inoue / Assist. Prof. Hiroki Mori | Global Course (Mech) | *Planned: 2027.04* | - | [ ] Pending Dispatch | - | [ ] Awaiting |
+| **Hiroshima Univ** | Prof. Soichi Ibaraki | Special Selection (Overseas) | *Planned: 2027.04* | - | [ ] Pending Dispatch | - | [ ] Awaiting |
+| **Tohoku Univ** | IMAC-G Admissions Desk | IMAC-G Desk Inquiry | *Planned: 2026.11* | - | [ ] Pending Dispatch | N/A (Desk Inquiry) | N/A |
+

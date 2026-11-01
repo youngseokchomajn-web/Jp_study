@@ -95,8 +95,8 @@
 
 
 ## Gemini Deep Research — 바로 실행
-- **[한 번 붙여넣기 최종 프롬프트](00_운영/Gemini_%ED%95%9C%EB%B2%88%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0_%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.md)** — Gemini Deep Research에 전체 본문을 한 번에 붙여넣어 18개 대학 조사 실행
-- [상세 실행 계획 및 검수 규칙](00_운영/Gemini_%EC%9D%BC%EA%B4%84%EC%A1%B0%EC%82%AC_%EC%8B%A4%ED%96%89%EA%B3%84%ED%9A%8D.md)
+- **[한 번 붙여넣기 최종 프롬프트](00_운영/Gemini_한번붙여넣기_최종프롬프트.md)** — Gemini Deep Research에 전체 본문을 한 번에 붙여넣어 18개 대학 조사 실행
+- [상세 실행 계획 및 검수 규칙](00_운영/Gemini_일괄조사_실행계획.md)
 - [GitHub 저장소 주소](https://github.com/youngseokchomajn-web/Jp_study)
 
 실행 후 Gemini가 만든 원본 보고서와 CSV를 먼저 보존하고, 공식 원문 검증이 끝난 정보만 기존 매트릭스에 반영한다. 실제 GitHub 쓰기 및 커밋을 확인하지 않았다면 푸시 완료로 간주하지 않는다.
@@ -176,13 +176,16 @@ Gemini 원본 보고서와 CSV는 조사 산출물로 보존한다. 파일 생�
 6. **전형 안정성 높은 주력 지원군 확립**: 규슈대(Kyushu), 히로시마대(Hiroshima), 홋카이도대(Hokkaido)를 실행 가능성 높은 주력 풀로 병행 준비한다.
 7. **CSV 데이터 무결성 원칙**: RFC 4180 표준을 준수하여 쉼표 포함 필드의 따옴표 이스케이프를 유지하고 19개 대학의 모든 행/열 정합성을 검증한다.
 
-## 2028년 4월 입학 실전 지원서류 및 전공 구술시험 패키지 완비 (2026-11-01 21차 완료)
+## 2028년 4월 입학 실전 지원서류 및 전공 구술시험 패키지 완비 (2026-11-01 21차~22차 완료)
 - **[2026-11-01 지원 서류 및 구술시험 준비 패키지 구축 21차 로그](01_로그/2026-11-01_지원서류_및_구술시험준비패키지_구축_21차.md)**
+- **[2026-11-01 2028년 4월 입학 단계별 실전 실행계획서 (Phase 1~6 마스터플랜)](00_운영/2026-11-01_2028년4월입학_단계별_실전실행계획서.md)**: 2026.11~2028.04 6단계 마스터 타임라인, TOEFL iBT 90+ 확보, 1차 컨택 및 사전 내락 확보, 요강 감사, 원서 접수, 구술시험, 비자/도일 행정 절차 및 비상 분기 계획 완비
+- **입시 준비 및 로드맵 아카이브 (`07_입시준비/`)**:
+  - **[2028년 4월 입학 단계별 실전 실행 로드맵 및 수속 체크리스트](07_입시준비/2028년4월입학_단계별_실전_실행로드맵.md)**: 지원자 시기별 액션 체크리스트
+  - **[전공 구술시험 대비 마스터 가이드](07_입시준비/전공구술시험_대비가이드_ScienceTokyo_Kyushu.md)**: Science Tokyo IGP(C) 5대 전공(기계진동, 재료역학, 선형제어, 유체역학, 열역학) 핵심 공식 요약 및 영문 빈출 Q&A, 규슈대 글로벌 코스 15분 발표 슬라이드 및 로터 동역학 특화 질의응답, 히로시마대 동적 R-test 특화 질의응답, CAE 실무자의 물리 원리(First-principles) 방어 논리, 영문 전문용어 핸드북 수록
 - **지원 서류 아카이브 (`06_지원서류/`)**:
-  - **[Academic English CV (Curriculum Vitae)](06_지원서류/Academic_CV_Cho_Youngseok.md)**: 4년 실무 CAE/구조동역학 역량, 프로젝트, 툴셋, 학부 학점 및 영어 스펙 정리 표준 학술 2페이지 CV
-  - **[Technical Engineering Portfolio](06_지원서류/Technical_CAE_Portfolio.md)**: 공작기계 스핀들-베어링 FRF 상관성, Jones-Harris 5자유도 비선형 강성, 컬럼 리브 최적화 및 동흡진기(TMD) 적용 채터 182% 확장 실무 CAE 케이스 스터디 (상업보안 준수)
+  - **[Academic English CV (Curriculum Vitae)](06_지원서류/Academic_CV_Cho_Youngseok.md)**: 4년 실무 CAE/구조동역학 역량, 프로젝트, 툴셋, 학부 핵심 교과목 성적, 학부 학점 및 영어 스펙 정리 표준 학술 2페이지 CV
+  - **[Technical Engineering Portfolio](06_지원서류/Technical_CAE_Portfolio.md)**: 공작기계 스핀들-베어링 FRF 상관성, Jones-Harris 5자유도 비선형 강성, 컬럼 리브 최적화 및 동흡진기(TMD) 적용 채터 182% 확장, LM 가이드 접촉 강성 역추정 실무 CAE 케이스 스터디 (요약 매트릭스 수록, 상업보안 준수)
   - **[Academic Research Proposal Draft](06_지원서류/Research_Proposal_Draft.md)**: *Physics-Informed Data Assimilation and Dynamic Compliance Evaluation for Machine-Tool Spindle-Bearing Systems Under High-Speed Cutting Conditions* (WP1~WP4 및 일본 주요 랩 시너지)
-  - **[Professor Outreach Letters (Cold Email Pack)](06_지원서류/Professor_Outreach_Email_Pack.md)**: Science Tokyo(Nakano 교수), TUAT(Yamato 교수), 규슈대(Inoue/Mori 교수), 히로시마대(Ibaraki 교수), 도호쿠대 IMAC-G 입학처 공식 문의 서신 및 컨택 가이드
-- **입시 및 구술시험 대비 아카이브 (`07_입시준비/`)**:
-  - **[전공 구술시험 대비 마스터 가이드](07_입시준비/전공구술시험_대비가이드_ScienceTokyo_Kyushu.md)**: Science Tokyo IGP(C) 5대 전공(기계진동, 재료역학, 선형제어, 유체역학, 열역학) 핵심 공식 요약 및 영문 빈출 Q&A, 규슈대 글로벌 코스 15분 발표 슬라이드 구성안, CAE 실무자의 물리 원리(First-principles) 방어 논리, 영문 전문용어 핸드북 수록
+  - **[Professor Outreach Letters (Cold Email Pack)](06_지원서류/Professor_Outreach_Email_Pack.md)**: Science Tokyo(Nakano 교수, 내락 요청 반영), TUAT(Yamato 교수, 10월 유연성 질의 반영), 규슈대(Inoue/Mori 교수), 히로시마대(Ibaraki 교수), 도호쿠대 IMAC-G 입학처 공식 문의 서신 및 컨택 진도 관리표(Tracking Matrix)
+
 

@@ -223,7 +223,7 @@ Gemini가 긴 보고서 한 개만 만들면 후속 업데이트가 어렵다. �
 
 - **저장소 주소:** https://github.com/youngseokchomajn-web/Jp_study
 - **README/기존 조사 인덱스:** https://github.com/youngseokchomajn-web/Jp_study/blob/main/README.md
-- **한 번 붙여넣기 프롬프트:** [Gemini 한 번 붙여넣기 최종 프롬프트](Gemini_%ED%95%9C%EB%B2%88%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0_%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.md)
+- **한 번 붙여넣기 프롬프트:** [Gemini 한 번 붙여넣기 최종 프롬프트](Gemini_한번붙여넣기_최종프롬프트.md)
 
 ### 실행 방식
 1. Gemini Deep Research에서 위 최종 프롬프트 파일의 본문을 통째로 붙여넣는다.

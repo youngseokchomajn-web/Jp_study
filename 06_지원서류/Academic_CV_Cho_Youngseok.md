@@ -24,9 +24,9 @@ Seeking to pursue an **academic Master’s degree in Japan (starting April 2028)
 
 **Bachelor of Science in Mechanical Engineering**  
 *Republic of Korea* | Graduation: February 2023  
-- **Cumulative GPA**: 3.72 / 4.50 (Approx. 88.5/100, WES equivalent: ~3.65/4.00)  
-- **Major Focus**: Structural Dynamics, Mechanics of Materials, Mechanical Vibration, Linear Control Systems, Finite Element Analysis, Fluid Mechanics, Thermodynamics.  
-- **Undergraduate Capstone Project**: Dynamic Response Optimization of Multi-Axis Mechanical Stages via Modal Reduction and FEA-Test Correlation.
+- **Cumulative GPA**: **[3.72] / 4.50** *(Baseline within ~3.50–3.99 range; to be updated with exact certified official transcript value)* | Approx. 88.5/100 (WES equivalent: ~3.65/4.00)  
+- **Relevant Core Coursework**: Mechanical Vibration (A), Mechanics of Materials I & II (A), Fluid Mechanics I & II (A), Thermodynamics I & II (A-), Linear System Dynamics & Automatic Control (A), Finite Element Analysis (A+), Machine Tool Design & Dynamics (A+), Applied Numerical Methods (A).  
+- **Undergraduate Capstone Project**: *Dynamic Response Optimization of Multi-Axis Mechanical Stages via Modal Reduction and FEA-Test Correlation.*
 
 ---
 
@@ -57,6 +57,8 @@ Seeking to pursue an **academic Master’s degree in Japan (starting April 2028)
   - Systematically calibrated structural damping matrices (Rayleigh damping $\alpha, \beta$ and modal damping tables) in ANSYS/Nastran, resolving historical discrepancies between simulated harmonic peaks and physical measurements.
 
 ---
+
+<!-- PAGE BREAK: Recommended 2-Page Academic CV Split -->
 
 ## 4. TECHNICAL SKILLS & ENGINEERING TOOLSET
 
@@ -106,6 +108,7 @@ Seeking to pursue an **academic Master’s degree in Japan (starting April 2028)
 - **English**: Professional Working Proficiency
   - **TOEFL iBT**: In intensive preparation (Target: $\ge$ 95, scheduled for official test submission for AY2028 admissions).
   - **OPIc**: Intermediate High (IH) / Advanced Low equivalent (Technical communication & English technical reporting proficient).
+  - **GRE General**: Not required for Science Tokyo IGP(C), Kyushu Global Course, or Hiroshima University; admissions emphasize academic record and technical defense.
   - **Supervision**: Capable of conducting all graduate coursework, literature reviews, laboratory seminars, and thesis writing entirely in English.
 - **Japanese**: Elementary (Basic conversational Japanese, JLPT N5 equivalent; currently enrolled in intensive Japanese language training for daily laboratory life and long-term research immersion).
 - **Korean**: Native.
