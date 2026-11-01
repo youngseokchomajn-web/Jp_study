@@ -176,3 +176,13 @@ Gemini 원본 보고서와 CSV는 조사 산출물로 보존한다. 파일 생�
 6. **전형 안정성 높은 주력 지원군 확립**: 규슈대(Kyushu), 히로시마대(Hiroshima), 홋카이도대(Hokkaido)를 실행 가능성 높은 주력 풀로 병행 준비한다.
 7. **CSV 데이터 무결성 원칙**: RFC 4180 표준을 준수하여 쉼표 포함 필드의 따옴표 이스케이프를 유지하고 19개 대학의 모든 행/열 정합성을 검증한다.
 
+## 2028년 4월 입학 실전 지원서류 및 전공 구술시험 패키지 완비 (2026-11-01 21차 완료)
+- **[2026-11-01 지원 서류 및 구술시험 준비 패키지 구축 21차 로그](01_로그/2026-11-01_지원서류_및_구술시험준비패키지_구축_21차.md)**
+- **지원 서류 아카이브 (`06_지원서류/`)**:
+  - **[Academic English CV (Curriculum Vitae)](06_지원서류/Academic_CV_Cho_Youngseok.md)**: 4년 실무 CAE/구조동역학 역량, 프로젝트, 툴셋, 학부 학점 및 영어 스펙 정리 표준 학술 2페이지 CV
+  - **[Technical Engineering Portfolio](06_지원서류/Technical_CAE_Portfolio.md)**: 공작기계 스핀들-베어링 FRF 상관성, Jones-Harris 5자유도 비선형 강성, 컬럼 리브 최적화 및 동흡진기(TMD) 적용 채터 182% 확장 실무 CAE 케이스 스터디 (상업보안 준수)
+  - **[Academic Research Proposal Draft](06_지원서류/Research_Proposal_Draft.md)**: *Physics-Informed Data Assimilation and Dynamic Compliance Evaluation for Machine-Tool Spindle-Bearing Systems Under High-Speed Cutting Conditions* (WP1~WP4 및 일본 주요 랩 시너지)
+  - **[Professor Outreach Letters (Cold Email Pack)](06_지원서류/Professor_Outreach_Email_Pack.md)**: Science Tokyo(Nakano 교수), TUAT(Yamato 교수), 규슈대(Inoue/Mori 교수), 히로시마대(Ibaraki 교수), 도호쿠대 IMAC-G 입학처 공식 문의 서신 및 컨택 가이드
+- **입시 및 구술시험 대비 아카이브 (`07_입시준비/`)**:
+  - **[전공 구술시험 대비 마스터 가이드](07_입시준비/전공구술시험_대비가이드_ScienceTokyo_Kyushu.md)**: Science Tokyo IGP(C) 5대 전공(기계진동, 재료역학, 선형제어, 유체역학, 열역학) 핵심 공식 요약 및 영문 빈출 Q&A, 규슈대 글로벌 코스 15분 발표 슬라이드 구성안, CAE 실무자의 물리 원리(First-principles) 방어 논리, 영문 전문용어 핸드북 수록
+
