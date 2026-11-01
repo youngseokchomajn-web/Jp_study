@@ -127,7 +127,7 @@
 | 시기 | 추진 마일스톤 | 대상 대학 및 구체적 행동 (패턴 기반 참고) |
 |:---|:---|:---|
 | **2026.11 ~ 2027.03** | **사전 컨택 서류 완비 & TOEFL 점수 확보** | - 영문 CV, 실무 포트폴리오(공작기계 진동/스핀들 CAE 실무 데이터 정리), 연구계획서 초안 완성<br>- 공식 TOEFL iBT 점수 확보 (학교별 가이드라인 충족: 80~95점 목표) |
-| **2027.04 ~ 2027.06** | **교수 사전 컨택 및 1차 연구 적합성 타진** | - **1순위**: Science Tokyo Nakano 교수에게 CV 및 포트폴리오 송부 (2028년 4월 석사생 수용 여부 질의)<br>- **2순위**: TUAT Yamato 교수에게 Special English Program 4월 수용 가능 여부 문의<br>- **3순위**: 규슈대 Machinery Dynamics Lab(Inoue 교수) 및 히로시마대 Ibaraki 교수 컨택 타진<br>- **보류 확인**: 도호쿠대 IMAC-G 2028년 4월 전형 개설 여부 공지 모니터링 (미개설 시 지원 목록 제외) |
+| **2027.04 ~ 2027.06** | **교수 사전 컨택 및 1차 연구 적합성 타진** | - **1순위**: Science Tokyo Nakano 교수에게 CV 및 포트폴리오 송부 (2028년 4월 석사생 수용 여부 질의)<br>- **2순위**: TUAT Yamato 교수에게 공학연구과 4월 수용 가능 여부 문의<br>- **3순위**: 규슈대 Machinery Dynamics Lab(Inoue 교수) 및 히로시마대 Ibaraki 교수 컨택 타진<br>- **보류 확인**: 도호쿠대 IMAC-G 2028년 4월 전형 개설 여부 공지 모니터링 (미개설 시 지원 목록 제외) |
 | **2027.07 ~ 2027.08** | **2028년 공식 모집요강 확인 및 사전 심사** | - 각 대학 2028년 4월 공식 모집요강(Application Guidelines) 공개 확인 및 요건 재대조<br>- 홋카이도대 e3 Matching Check 제출 |
 | **2027.08 ~ 2027.10** | **Science Tokyo IGP(C) 원서 접수 (과거 패턴 기준)** | - Science Tokyo Web Application System 접수 (과거 2027 봄 입학 패턴: 8월 초~10월 중순, 사전 승낙서 첨부 필수)<br>- 히로시마대 해외거주자 특별선발 사전 심사(Preliminary Survey) 제출 |
 | **2027.11 ~ 2027.12** | **Science Tokyo 구술면접 & 히로시마대 온라인 전형** | - Science Tokyo 기계공학 구술 인터뷰 대비 (기계진동, 재료역학, 선형제어 등 5대 전공 Q&A)<br>- 히로시마대 온라인 구술면접 응시<br>- 규슈대 기계공학 글로벌 코스 1월 전형 원서 접수 |
@@ -146,7 +146,7 @@
 > 
 > I am writing to express my strong admiration for your recent publications on noncontact electromagnetic spindle measurement (*IJAT 2025*) and boundary condition estimation via data assimilation. With over 4 years of industrial CAE engineering experience focused on machine-tool structural vibration, spindle-bearing coupled dynamics, and dynamic compliance (FRF) analysis, my technical background strongly aligns with your laboratory’s research directions.
 > 
-> I am preparing to pursue a Master's degree starting in **April 2028**. Could you kindly advise whether your laboratory currently accepts international Master's students through TUAT's Special English Graduate Program with research supervision conducted in English for the April intake?
+> I am preparing to pursue a Master's degree starting in **April 2028**. Could you kindly advise whether your laboratory currently accepts international Master's students through TUAT's Graduate School of Engineering with research supervision conducted in English for the April intake?
 > 
 > Attached please find my CV and a brief technical summary of my prior engineering work for your review.
 
