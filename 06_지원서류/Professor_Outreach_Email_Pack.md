@@ -49,7 +49,7 @@ Before sending each email:
 1. Read at least one recent, directly relevant paper and the laboratory's official research page.
 2. Identify the exact degree programme and its official intake route.
 3. Verify whether the programme is open to international applicants and whether the target intake is published or only a historical pattern.
-4. Check whether professor contact is required, recommended or unnecessary.
+4. Check whether professor contact is required, recommended or unnecessary, and verify the appropriate contact timing for each specific admissions scheme (do not fix to a rigid April 2027 date).
 5. Replace generic text with one accurate research connection.
 6. Attach only the verified CV and a portfolio that contains no unsupported claims or confidential material.
 7. Record date, address source, response and next action.

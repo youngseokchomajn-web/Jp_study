@@ -46,7 +46,7 @@ Only list software and methods personally used at a level that can be defended i
 - **CAD / preprocessing:** [Exact tools — verify]
 - **Programming / data analysis:** [Python / MATLAB / other tools only if personally used; specify level]
 - **Dynamics:** structural vibration, modal concepts, FRF interpretation, spindle–bearing dynamics [describe actual depth]
-- **Experimental methods:** [Do not list EMA, impact testing, shaker testing, DAQ or sensors unless personally performed]
+- **Experimental methods:** [Do not list EMA, impact testing, shaker testing, DAQ or sensors unless personally performed. Final research positioning should be decided after verifying the applicant's exact industrial work scope and degree of involvement in testing/measurement.]
 
 ## Selected projects
 Add 2–3 anonymized project summaries after completing the evidence worksheet:
@@ -64,19 +64,19 @@ Until then, do not include invented case studies or quantitative improvements.
 
 ## Languages
 - Korean: [Native, if accurate]
-- English: [Describe current ability; add TOEFL/IELTS only after an official score is issued]
+- English: [Describe current ability; accepted tests (TOEFL, IELTS, etc.) and required scores are strictly subject to individual university guidelines; avoid rigid cutoff assumptions]
 - Japanese: Beginner-level study in progress; do not claim JLPT N5 equivalence until passed.
 
 ## References
-Available upon request only after the referee has agreed. Do not imply that a professor, department chair or company executive has agreed to provide a reference before obtaining consent.
+Available upon request only after the referee has agreed. (Note: Submission obligation and number of letters depend on specific university/programme guidelines; do not assume a fixed requirement of two referees.) Do not imply that a professor, department chair or company executive has agreed to provide a reference before obtaining consent.
 
 ---
 ## Applicant verification checklist
 - [ ] Official university name, degree title and graduation date
-- [ ] Official transcript GPA and grading scale
+- [ ] Official transcript GPA and grading scale (do not treat unverified GPA placeholder as confirmed)
 - [ ] Exact employment dates, employer name and job title
 - [ ] Software / solver / programming tools personally used
 - [ ] Each project contribution and validation method
 - [ ] Permission to disclose anonymized project details
-- [ ] English test score and Japanese certificate, if any
-- [ ] Awards, certifications, publications and referees (documentary evidence + consent)
+- [ ] English test score (against programme-specific requirements) and Japanese certificate, if any
+- [ ] Awards, certifications, publications and referees (check university-specific reference requirements; obtain documentary evidence + consent)
