@@ -49,13 +49,13 @@ Before sending each email:
 1. Read at least one recent, directly relevant paper and the laboratory's official research page.
 2. Identify the exact degree programme and its official intake route.
 3. Verify whether the programme is open to international applicants and whether the target intake is published or only a historical pattern.
-4. Check whether professor contact is required, recommended or unnecessary, and verify the appropriate contact timing for each specific admissions scheme (do not fix to a rigid April 2027 date).
+4. Check whether professor contact is required, recommended, optional or prohibited before formal application, and verify the appropriate contact timing for each specific admissions scheme (do not fix to a rigid April 2027 date; confirm whether prior informal consent / 사전 내락 is mandatory for the target scheme).
 5. Replace generic text with one accurate research connection.
 6. Attach only the verified CV and a portfolio that contains no unsupported claims or confidential material.
 7. Record date, address source, response and next action.
 
 ## 5. Do not write
-- Claims of experimental modal testing, impact-hammer testing, shaker testing, TMD design or chatter-free depth improvement unless the applicant verifies personal execution and evidence.
+- Claims of experimental modal testing, impact-hammer testing, shaker testing, TMD design or chatter-free depth improvement unless the applicant verifies personal execution and evidence. (Final research positioning should be decided after verifying the applicant's exact industrial work scope and degree of involvement in testing/measurement, rather than fixing to 'pure numerical simulation'.)
 - Invented GPA, TOEFL/OPIc scores, awards, certifications, publications, software proficiency or academic references.
-- A request for guaranteed admission, a guaranteed supervisor slot or an informal promise of acceptance.
+- A request for guaranteed admission, a guaranteed supervisor slot or an informal promise of acceptance, especially when informal consent (사전 내락) is not a formal requirement of the admissions track.
 - Statements that a programme offers April 2028 entry unless the official 2028 admissions information confirms it.

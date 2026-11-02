@@ -16,7 +16,7 @@ The applicant's current technical interests include:
 - Frequency-response functions (FRFs), modal behaviour and dynamic compliance.
 - Improving the physical consistency of simulation models and their boundary conditions.
 
-This summary is based on the applicant's described work areas. It does not imply that every method below has already been independently implemented or experimentally validated.
+This summary is based on the applicant's described work areas. It does not imply that every method below has already been independently implemented or experimentally validated. Research positioning (e.g., numerical simulation vs experimental collaboration or measurement data utilization) should be decided after confirming the applicant's actual industrial work scope and degree of involvement in testing/measurement (avoiding unilateral designation as 'pure numerical simulation').
 
 ## 2. Portfolio case-study template
 Each real project should be documented using this template. Create one copy per project.
@@ -98,6 +98,7 @@ Possible methods:
 | Experimental modal testing | Test plan, acquisition files and personal role | Do not claim unless verified |
 | Chatter / TMD outcomes | Analysis or test records, baseline and method | Do not claim unless verified |
 | Numerical improvement percentages | Traceable raw data and calculation | Excluded pending evidence |
+| Research positioning | Verification of industrial scope and testing/measurement involvement | Do not fix to 'pure numerical simulation' until work scope is confirmed |
 
 ## 6. Assembly plan
 1. Select two projects that best represent the applicant's actual work.
